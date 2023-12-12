@@ -45,9 +45,6 @@
   <img src="https://pbs.twimg.com/profile_images/1260194537001103361/grioVrbA_400x400.png" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-netlify-3629537-3032320.png" width="40" height="40"/>&nbsp;
 </div>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Saillard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
